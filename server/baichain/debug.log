@@ -1,0 +1,50 @@
+2020-10-08 13:33:54 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2020-10-08 13:33:54 MultiChain version build 2.0.2 protocol 20010 (May 19 2019, 09:53:03)
+2020-10-08 13:33:54 Using OpenSSL version OpenSSL 1.0.1h 5 Jun 2014
+2020-10-08 13:33:54 Using BerkeleyDB version Berkeley DB 4.8.30: (April  9, 2010)
+2020-10-08 13:33:54 Default data directory /root/.multichain/baichain
+2020-10-08 13:33:54 Using data directory /root/.multichain/baichain
+2020-10-08 13:33:54 Using config file /root/.multichain/baichain/baichain.conf
+2020-10-08 13:33:54 Using at most 125 connections (1024 file descriptors available)
+2020-10-08 13:33:54 Using 8 threads for script verification
+2020-10-08 13:33:54 Using wallet wallet.dat
+2020-10-08 13:33:54 init message: Verifying wallet...
+2020-10-08 13:33:54 Wallet file exists. WalletDBVersion: 3.
+2020-10-08 13:33:54 init message: Initializing multichain...
+2020-10-08 13:33:54 mchn: Parameter set is valid - initializing blockchain parameters...
+2020-10-08 13:33:54 Wallet mode: 00000103
+2020-10-08 13:33:54 nFileVersion = 100000
+2020-10-08 13:33:54 Keys: 77 plaintext, 0 encrypted, 77 w/ metadata, 77 total
+2020-10-08 13:33:54 Node paused state is set to 00000000
+2020-10-08 13:33:54 Binding RPC on address ::1 port 4350 (IPv4+IPv6 bind any: 0)
+2020-10-08 13:33:54 Binding RPC on address 127.0.0.1 port 4350 (IPv4+IPv6 bind any: 0)
+2020-10-08 13:33:54 Bound to [::]:4351
+2020-10-08 13:33:54 Bound to 0.0.0.0:4351
+2020-10-08 13:33:54 Filter initialization completed
+2020-10-08 13:33:54 Setting banned transaction list:    0 transactions
+2020-10-08 13:33:54 init message: Loading block index...
+2020-10-08 13:33:54 Opening LevelDB in /root/.multichain/baichain/blocks/index
+2020-10-08 13:33:54 Opened LevelDB successfully
+2020-10-08 13:33:54 Opening LevelDB in /root/.multichain/baichain/chainstate
+2020-10-08 13:33:54 Opened LevelDB successfully
+2020-10-08 13:33:54 nFileVersion = 100000
+2020-10-08 13:33:54 Keys: 77 plaintext, 0 encrypted, 77 w/ metadata, 77 total

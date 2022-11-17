@@ -1,0 +1,54 @@
+HTTPS Server running on port 4000!
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+User data login {
+  _id: 5ecf7db269fd0747ee0dcb87,
+  walletId: '4d48b5fe-5611-4e50-ac2e-f0184fca61f9',
+  username: 'muzammil',
+  email: 'mml@gmail.com',
+  password: '$2a$08$4Zu5LGbzpaN07qTa6cngyOOLdchLTyRIZasV47blIau15xkMAgHt6',
+  verifyToken: '705205',
+  wallets: {
+    btc: {
+      publicKey: '17ZL9VJjQEaz1N5oykh1ECHN9QVPyif8Yo',
+      privateKey: 'tRsKmSphgRwTSl9teXsjdWsY1aQKcW1b2E3LheUgOWgP+Nf4JydgUGK113TGvEo9NPua7T/CuGWrbs9zM0xwZA=='
+    },
+    bigchain: {
+      privateKey: 'yb82hX423cDMCvTfPyqApXFAxe4olrv5+VeE7k0y2y8QdMwyI8pfuaZu4eI+bCcs',
+      publicKey: 'B3Sr83GVksem6FMXzvmbrAkmZUvz3VWdDZrj8s4yVsV',
+      passphrase: 'chapter vintage extra whisper spread myself either model envelope melody utility special'
+    }
+  },
+  multiAddress: '165CqAMLM65VrQD7xJZyPJNkX858NAHDULXaac',
+  status: true,
+  forgetPass: '',
+  __v: 0
+}
+[]
+[]
+[]
+[]
+token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlY2Y3ZGIyNjlmZDA3NDdlZTBkY2I4NyIsImlhdCI6MTU5MjkwODM2NywiZXhwIjoxNTkyOTk0NzY3fQ.9JxpZWnxJMe0jrTMbRsGi5il9cEgXOvakKtjfYs4frk
+This is request:5ecf7db269fd0747ee0dcb87
+ELSE PART
+This is balance:0
+token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlY2Y3ZGIyNjlmZDA3NDdlZTBkY2I4NyIsImlhdCI6MTU5MjkwODM2NywiZXhwIjoxNTkyOTk0NzY3fQ.9JxpZWnxJMe0jrTMbRsGi5il9cEgXOvakKtjfYs4frk
+This is request:5ecf7db269fd0747ee0dcb87
+ELSE PART
+This is balance:0
+token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlY2Y3ZGIyNjlmZDA3NDdlZTBkY2I4NyIsImlhdCI6MTU5MjkwODM2NywiZXhwIjoxNTkyOTk0NzY3fQ.9JxpZWnxJMe0jrTMbRsGi5il9cEgXOvakKtjfYs4frk
+This is request:5ecf7db269fd0747ee0dcb87
+ELSE PART
+This is balance:NaN
+{"error": "Address 17ZL9VJjQEaz1N5oykh1ECHN9QVPyif8Yo incompatible with current block chain: BTC.test3"}
+This is balance in function file:undefined
+[]
+[]
+[]
+[]
